@@ -8,5 +8,3 @@ My favorite programming language is Python!
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sqlmerr&theme=neon&date_format=d%20F[%20Y])](https://git.io/streak-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sqlmerr&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://wakatime-languages-pie-svg.vercel.app/svg?username=sqlmerr&uuid=0822acc4-4a4d-47dc-b67e-a47a8a0669cf"/>
