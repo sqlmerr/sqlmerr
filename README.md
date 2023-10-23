@@ -9,4 +9,4 @@ My favorite programming language is Python!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sqlmerr&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
 
-<figure><embed src="https://wakatime.com/share/@sqlmerr/0822acc4-4a4d-47dc-b67e-a47a8a0669cf.svg"></embed></figure>
+<img src="https://wakatime-languages-pie-svg.vercel.app/svg?username=sqlmerr&uuid=0822acc4-4a4d-47dc-b67e-a47a8a0669cf"/>
