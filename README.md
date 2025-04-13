@@ -18,6 +18,4 @@ Text           3 mins          ░░░░░░░░░░░░░░░░�
   </a>
 </p>
 
-———
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sqlmerrlayout=donut-vertical&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sqlmerr&layout=donut-vertical&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
