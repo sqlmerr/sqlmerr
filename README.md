@@ -1,5 +1,7 @@
 ## Hi 👋
 
+<img src="https://cdn.7tv.app/emote/01GYT25QT8000DVPJKHH13026T/1x.avif" />
+
 <!--START_SECTION:waka-->
 
 ```txt
