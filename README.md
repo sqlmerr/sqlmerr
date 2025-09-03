@@ -5,7 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python      1 hr 44 mins    ██████████████████████▓░░   90.31 %
+YAML        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Docker      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+.env file   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Bash        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
