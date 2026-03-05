@@ -5,10 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python      0 secs                ████████████████████▒░░░░   81.57 %
-YAML        0 secs                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-.env file   0 secs                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-Docker      0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
