@@ -5,9 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go     6 mins                █████████████████████████   99.90 %
-SQL    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-YAML   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
