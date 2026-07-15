@@ -5,7 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Lua      1 hr 12 mins          ████████████▒░░░░░░░░░░░░   49.88 %
+JSON     53 mins               █████████▒░░░░░░░░░░░░░░░   37.02 %
+Python   18 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
+YAML     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TOML     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
